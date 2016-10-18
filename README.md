@@ -1,2 +1,2 @@
 # diary
-time recording for pythonamywhere.com
+Time recording flask based app for pythonamywhere.com
